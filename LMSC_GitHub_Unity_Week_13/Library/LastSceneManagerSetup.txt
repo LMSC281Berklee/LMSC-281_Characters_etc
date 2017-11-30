@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/TestOpen.unity
+- path: Assets/MecAnim/Scenes/Follow Example.unity
   isLoaded: 1
   isActive: 1
